@@ -14,9 +14,9 @@ function Home() {
                <div className="home__row">
                    <Product 
                         id="11110001"
-                        title="Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)"
-                        image=""  
-                        price={258.98}  
+                        title="Logitech G502 Hero High Performance Gaming Mouse"
+                        image="https://images-na.ssl-images-amazon.com/images/I/31BzhyIRe5L._AC_US240_FMwebp_QL65_.jpg"  
+                        price={43.97}  
                         rating={5}
                         />
                    <Product 
@@ -44,18 +44,18 @@ function Home() {
                         />
                    <Product 
                         id="11110005"
-                        title="Vaya Drynk - 600 ml - Ombre - (Sipper Lid)"
-                        image=""  
-                        price={21.98}  
+                        title="Samsung SSD 860 EVO 1TB 2.5 Inch SATA III Internal SSD (MZ-76E1T0B/AM)"
+                        image="https://images-na.ssl-images-amazon.com/images/I/41qR7C253KL._AC_US240_FMwebp_QL65_.jpg"  
+                        price={103.79}  
                         rating={5}
                         />
                </div>
                <div className="home__row">
-                   <Product 
+                    <Product 
                         id="11110006"
-                        title="US Polo Association Boy's Plain Polo"
-                        image=""  
-                        price={13.97}  
+                        title="Fitbit Inspire 2 Health & Fitness Tracker with a Free 1-Year Fitbit Premium Trial, 24/7 Heart Rate, Black/Black, One Size (S & L Bands Included)"
+                        image="https://images-na.ssl-images-amazon.com/images/I/31czMWqckzL._AC_US240_FMwebp_QL65_.jpg"  
+                        price={68.95}  
                         rating={5}
                         />
                </div>  
